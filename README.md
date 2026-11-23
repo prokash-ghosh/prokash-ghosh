@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hi 👋, I'm Prokash Ghosh
 
@@ -12,8 +12,8 @@ Building practical solutions through programming, problem-solving, and continuou
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=prokashghosh996-png&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/prokashghosh996-png?label=FOLLOWERS&style=flat-square&color=8B5CF6&logo=github" alt="GitHub followers" />
+<img src="https://komarev.com/ghpvc/?username=prokash-ghosh&label=PROFILE+VIEWS&color=38BDF8&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/prokash-ghosh?label=FOLLOWERS&style=flat-square&color=8B5CF6&logo=github" alt="GitHub followers" />
 
 </div>
 
@@ -106,10 +106,10 @@ It reports the predicted class, confidence score, top three predictions, and cla
 * Reproducible dataset preparation and saved-model evaluation
 
 <p>
-  <a href="https://github.com/prokashghosh996-png/LeafLens">
+  <a href="https://github.com/prokash-ghosh/LeafLens">
     <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="LeafLens repository" />
   </a>
-  <img src="https://img.shields.io/github/stars/prokashghosh996-png/LeafLens?style=for-the-badge&logo=github&label=Stars&color=FACC15" alt="LeafLens stars" />
+  <img src="https://img.shields.io/github/stars/prokash-ghosh/LeafLens?style=for-the-badge&logo=github&label=Stars&color=FACC15" alt="LeafLens stars" />
 </p>
 
 ---
@@ -134,10 +134,10 @@ It combines student, teacher, class, and schedule management with live attendanc
   <a href="https://attend-x-neon.vercel.app">
     <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="AttendX live demo" />
   </a>
-  <a href="https://github.com/prokashghosh996-png/AttendX">
+  <a href="https://github.com/prokash-ghosh/AttendX">
     <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="AttendX repository" />
   </a>
-  <img src="https://img.shields.io/github/stars/prokashghosh996-png/AttendX?style=for-the-badge&logo=github&label=Stars&color=FACC15" alt="AttendX stars" />
+  <img src="https://img.shields.io/github/stars/prokash-ghosh/AttendX?style=for-the-badge&logo=github&label=Stars&color=FACC15" alt="AttendX stars" />
 </p>
 
 ---
@@ -149,13 +149,13 @@ A beginner-friendly website showcasing the Indian Cricket Team through individua
 This project helped me strengthen my understanding of HTML structure, webpage organization, GitHub repositories, and deployment through GitHub Pages.
 
 <p>
-  <a href="https://prokashghosh996-png.github.io/Indian-Cricket-Team/">
+  <a href="https://prokash-ghosh.github.io/Indian-Cricket-Team/">
     <img src="https://img.shields.io/badge/Live_Demo-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="Indian Cricket Team live demo" />
   </a>
-  <a href="https://github.com/prokashghosh996-png/Indian-Cricket-Team">
+  <a href="https://github.com/prokash-ghosh/Indian-Cricket-Team">
     <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Indian Cricket Team repository" />
   </a>
-  <img src="https://img.shields.io/github/stars/prokashghosh996-png/Indian-Cricket-Team?style=for-the-badge&logo=github&label=Stars&color=FACC15" alt="Indian Cricket Team stars" />
+  <img src="https://img.shields.io/github/stars/prokash-ghosh/Indian-Cricket-Team?style=for-the-badge&logo=github&label=Stars&color=FACC15" alt="Indian Cricket Team stars" />
 </p>
 
 ---
@@ -164,18 +164,15 @@ This project helped me strengthen my understanding of HTML structure, webpage or
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=prokashghosh996-png&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Prokash's GitHub statistics" />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=prokash-ghosh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Prokash's GitHub statistics" />
 
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prokashghosh996-png&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=prokash-ghosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=prokashghosh996-png&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=prokash-ghosh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
-
----
-
 
 ---
 
@@ -224,7 +221,6 @@ This project helped me strengthen my understanding of HTML structure, webpage or
 <a href="mailto:pghosh760289@gmail.com">
   <img src="https://img.shields.io/badge/pghosh760289@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Primary email address" />
 </a>
-
 
 </div>
 
